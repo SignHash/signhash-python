@@ -5,8 +5,8 @@ signhash
     :target: https://pypi.python.org/pypi/signhash
     :alt: Latest PyPI version
 
-.. image:: .png
-   :target: 
+.. image:: https://travis-ci.org/SignHash/signhash-cli.svg?branch=master
+   :target: https://travis-ci.org/SignHash/signhash-cli
    :alt: Latest Travis CI build status
 
 SignHash for Python
